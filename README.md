@@ -1,4 +1,4 @@
-Project#6
+Project#6: Run sketch and see difference when using map or not.
 
 1 x potentiometer
 1 x LED
